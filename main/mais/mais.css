@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(221, 194, 246);
+}
+.generos{
+    margin-left: 100px;
+    background-color: rgb(121, 20, 151);
+    height: auto;
+    width: 135px;
+    text-align: center;
+    border: 3px solid white;
+    border-radius: 7px;
+    margin-top: 15px;
+    color: rgb(136, 0, 233);
+}
+#links{
+    display: flex;
+    align-items: inline;
+}
+a{
+    color: rgb(0, 0, 0);
+}
+li:hover {
+    background-color: #f0f0f0; /* Cor de fundo quando o mouse passa sobre o item da lista */
+    cursor: pointer; /* Muda o cursor para indicar que o elemento é interativo */
+}
