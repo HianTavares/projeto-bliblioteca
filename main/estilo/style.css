@@ -40,7 +40,9 @@ main{
 }
 #logo{
     position: absolute;
-    margin-top: 15px; 
+    margin-top: -50px; 
+    margin-left: -50px;
+    height: 270px;
 }
 li:hover {
     background-color: #f0f0f0; /* Cor de fundo quando o mouse passa sobre o item da lista */
@@ -48,4 +50,14 @@ li:hover {
 }
 li a{
    color: black; 
+}
+h1{
+    font-family: monospace;
+    font-size: 50px;
+}
+#logoinsta{
+    height: 80px;
+    position: absolute;
+    margin-left: 1430px;
+    margin-top: -275px;
 }
