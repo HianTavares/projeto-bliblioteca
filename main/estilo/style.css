@@ -61,3 +61,14 @@ h1{
     margin-left: 1430px;
     margin-top: -275px;
 }
+#agrad{
+    position: absolute;
+    margin-left: 1060px;
+    height: 150px;
+    margin-top: -275px
+}
+footer{
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 700px;
+}
