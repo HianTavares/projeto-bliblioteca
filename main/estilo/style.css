@@ -14,7 +14,7 @@ main{
 }
 #navegacao{
     height: 80px;
-    width: 1800px;
+    width: auto;/*1800*/
     background-color: rgba(182, 119, 240, 0.607);
     margin-bottom: 30px;
     border-radius: 5px;
